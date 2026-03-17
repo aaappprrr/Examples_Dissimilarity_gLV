@@ -1,6 +1,6 @@
 "Dissimilarity measures for generalized Lotka-Volterra systems on networks"
  by Nicolás A. Márquez , Maryam Chaib De Mares, and Alejandro P. Riascos
- March 13, 2026
+ March 16, 2026
 
 We present examples of a framework to quantify dissimilarities between generalized Lotka Volterra systems that differ in interaction parameters, network structure, or in the functional form of the governing equations. 
 
